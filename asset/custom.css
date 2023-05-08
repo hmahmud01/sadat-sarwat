@@ -28,6 +28,24 @@ header {
     background-size: cover;
 }
 
+.header-lawyer {
+    min-height: 100vh;
+    background: url(/asset/img/5.jpg) no-repeat center;
+    background-size: cover;
+}
+
+.header-area {
+    min-height: 100vh;
+    background: url(/asset/img/4.jpg) no-repeat center;
+    background-size: cover;
+}
+
+.header-contact {
+    min-height: 100vh;
+    background: url(/asset/img/2.jpg) no-repeat center;
+    background-size: cover;
+}
+
 .landing-text {
     height: 100vh;
     display: flex;
@@ -52,6 +70,13 @@ main p {
     font-size: 1.1em;
     line-height: 27px;
     color: #fff;
+}
+
+.about-main {
+    background-color: #ffffffda; 
+    font-size: 1.1em;
+    line-height: 27px;
+    color: #fff !important;
 }
 
 .container-custom .container-custom-inner {
